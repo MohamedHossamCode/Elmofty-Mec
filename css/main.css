@@ -296,9 +296,11 @@ ul {
     width: 350px;
     text-align: center;
     gap: 10px;
+    justify-content: flex-start;
+    align-items: flex-start;
   }
   .about .container .box,
   .contact .container .box {
-    width: 95%;
+    width: 90%;
   }
 }
