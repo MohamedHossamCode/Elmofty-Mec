@@ -304,4 +304,7 @@ ul {
     width: 85%;
     padding: 5px;
   }
+  .about .text {
+    font-size: 20px;
+  }
 }
