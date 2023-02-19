@@ -293,7 +293,7 @@ ul {
   .contact .container{
     display: flex;
     flex-direction: column;
-    width: 350px;
+    width: 340px;
     text-align: center;
     gap: 10px;
     justify-content: flex-start;
