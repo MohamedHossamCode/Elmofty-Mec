@@ -297,7 +297,8 @@ ul {
     text-align: center;
     gap: 10px;
   }
+  .about .container .box,
   .contact .container .box {
-    width: 100%;
+    width: 95%;
   }
 }
