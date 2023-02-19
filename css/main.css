@@ -269,10 +269,10 @@ ul {
     top: 500%;
   }
   .home .photos .prev {
-    transform: translate(130px,700%) !important;
+    transform: translate(120px,700%) !important;
   }
   .home .photos .next {
-    transform: translate(-130px,700%);
+    transform: translate(-120px,700%);
   }
   .home .photos .slider > span,
   .home .photos .slider:hover > span {
@@ -305,6 +305,6 @@ ul {
     padding: 5px;
   }
   .about .text {
-    font-size: 20px;
+    font-size: 16px;
   }
 }
