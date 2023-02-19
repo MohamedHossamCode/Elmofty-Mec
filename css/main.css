@@ -301,7 +301,7 @@ ul {
   }
   .about .container .box,
   .contact .container .box {
-    width: 85%;
+    width: 80%;
     padding: 5px;
   }
 }
